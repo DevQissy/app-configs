@@ -1,4 +1,4 @@
 {
-  "minVersionCode": 1.0,
-  "warnBelowVersionCode": 1.0
+  "minVersionCode": 0,
+  "warnBelowVersionCode": 0
 }
